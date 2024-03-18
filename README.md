@@ -1,4 +1,4 @@
-# Assignment_Thinkerbell
+# python curses-example
 
 1). Clone or download the repository
 
